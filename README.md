@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Kumar</h1>
 <h3 align="center">A highly motivated software devloper who is results driven and has a strong desire to learn and advance.</h3>
 
-- 🔭 I’m currently working on Music player using python **JAZZ player**
+- 🔭 I’m currently working on Tic Tac Toe Game **TicTak-using-Tkinter **
 
 - 🌱 I’m currently learning **Java**
 
