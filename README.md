@@ -3,9 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/kpriyanshu011" target="blank"><img src="https://img.shields.io/twitter/follow/kpriyanshu011?logo=twitter&style=for-the-badge" alt="kpriyanshu011" /></a> </p>
 
-- 🔭 I’m currently working on Tic Tac Toe Game Using Tkinter [TicTacToe](https://github.com/priyanshu-k1/tictac_using-Tkinter)
-
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **.Net**
 
 - 💬 Ask me about **Python, C, C++**
 
