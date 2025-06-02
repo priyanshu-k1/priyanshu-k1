@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/kpriyanshu011" target="blank"><img src="https://img.shields.io/twitter/follow/kpriyanshu011?logo=twitter&style=for-the-badge" alt="kpriyanshu011" /></a> </p>
 
-- 🌱 I’m currently learning **.Net**
+- 🌱 I’m currently learning **AI/ML**
 
-- 💬 Ask me about **Python, C, C++**
+- 💬 Ask me about **Python, Kotlin, Dart**
 
 - 📫 How to reach me **priyanshukumar0419@gmail.com**
 
